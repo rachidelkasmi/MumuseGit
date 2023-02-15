@@ -1,6 +1,6 @@
 <?php
 
-echo ('master 1');
+echo ('branch 1');
 
 
 ?>
